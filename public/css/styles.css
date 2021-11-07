@@ -20,8 +20,8 @@ section {
 h2 {
     text-align:center;
 }
-.backgroudimage {
-    background-image: url("lake.jpg");
+.backgroundimage {
+    background-image: url("\\img\\lake.jpg");
     background-repeat: no-repeat;
     background-size: 50%;
     background-attachment: fixed;
